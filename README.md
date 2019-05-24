@@ -1,6 +1,8 @@
 
 ristory-dbdict
 ==========
+forkfrom https://github.com/lonisy/data-dictionary
+========== 
 Mysql Database Dictionary - 简单易用的Mysql数据库字典程序
 
 > A Vue.js project
